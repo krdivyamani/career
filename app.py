@@ -14,6 +14,10 @@ JOBS = [{
     'id': 3,
     'title': "CV Engineer",
     'salary': 1100000
+}, {
+    'id': 3,
+    'title': "NLP Engineer",
+    'salary': 1300000
 }]
 
 
